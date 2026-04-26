@@ -7,5 +7,14 @@
     "description": "Membeli TREDICT INVICTUS",
     "status": "success",
     "timestamp": "2026-04-26T00:14:47.774Z"
+  },
+  {
+    "id": 1777162494185,
+    "userId": 7882058841,
+    "type": "purchase",
+    "amount": 100000,
+    "description": "Membeli TREDICT INVICTUS",
+    "status": "success",
+    "timestamp": "2026-04-26T00:14:54.185Z"
   }
 ]
