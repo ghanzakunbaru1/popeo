@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": 1777162487774,
+    "userId": 7882058841,
+    "type": "purchase",
+    "amount": 100000,
+    "description": "Membeli TREDICT INVICTUS",
+    "status": "success",
+    "timestamp": "2026-04-26T00:14:47.774Z"
+  }
+]
