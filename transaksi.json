@@ -16,5 +16,14 @@
     "description": "Membeli TREDICT INVICTUS",
     "status": "success",
     "timestamp": "2026-04-26T00:14:54.185Z"
+  },
+  {
+    "id": 1777281405512,
+    "userId": 7882058841,
+    "type": "deposit",
+    "amount": 3000,
+    "description": "Deposit via QRIS (topup-5c44c123-OX4K)",
+    "status": "success",
+    "timestamp": "2026-04-27T09:16:45.512Z"
   }
 ]
