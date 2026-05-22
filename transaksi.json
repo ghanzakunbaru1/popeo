@@ -52,5 +52,14 @@
     "description": "Deposit via QRIS (topup-7658b441-OX4K)",
     "status": "success",
     "timestamp": "2026-05-18T05:41:03.795Z"
+  },
+  {
+    "id": 1779455508688,
+    "userId": 7882058841,
+    "type": "purchase",
+    "amount": 20000,
+    "description": "Membeli MURBUG",
+    "status": "success",
+    "timestamp": "2026-05-22T13:11:48.688Z"
   }
 ]
