@@ -88,5 +88,14 @@
     "description": "Membeli RES PANEL",
     "status": "success",
     "timestamp": "2026-05-30T10:30:04.279Z"
+  },
+  {
+    "id": 1781879629773,
+    "userId": 7882058841,
+    "type": "purchase",
+    "amount": 7000,
+    "description": "Membeli RES PANEL",
+    "status": "success",
+    "timestamp": "2026-06-19T14:33:49.773Z"
   }
 ]
