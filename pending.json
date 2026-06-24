@@ -40,12 +40,5 @@
     "nominal": 1000,
     "timestamp": 1781949654060,
     "status": "PENDING"
-  },
-  {
-    "trxId": "topup-d54a871f-OX4K",
-    "userId": 7882058841,
-    "nominal": 43000,
-    "timestamp": 1782264808509,
-    "status": "PENDING"
   }
 ]
