@@ -40,12 +40,5 @@
     "nominal": 1000,
     "timestamp": 1781949654060,
     "status": "PENDING"
-  },
-  {
-    "trxId": "topup-e1a330fa-OX4K",
-    "userId": 7882058841,
-    "nominal": 18000,
-    "timestamp": 1782670624792,
-    "status": "PROCESSING"
   }
 ]
