@@ -61,12 +61,5 @@
     "nominal": 6000,
     "timestamp": 1783151949168,
     "status": "PENDING"
-  },
-  {
-    "trxId": "topup-bdd2da09-OX4K",
-    "userId": 7882058841,
-    "nominal": 5000,
-    "timestamp": 1783312690941,
-    "status": "PROCESSING"
   }
 ]
