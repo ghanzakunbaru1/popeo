@@ -10,5 +10,13 @@
     "warns": {
       "8207467354": 0
     }
+  },
+  "-1002801776577": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [],
+    "warns": {}
   }
 }
