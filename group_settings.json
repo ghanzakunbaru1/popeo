@@ -2,7 +2,7 @@
   "-1002935510608": {
     "antitoxic": true,
     "antipromo": true,
-    "warnLimit": 3,
+    "warnLimit": 6,
     "muteMinutes": 60,
     "whitelist": [
       "forsel"
