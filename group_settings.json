@@ -1,6 +1,6 @@
 {
   "-1002935510608": {
-    "antitoxic": false,
+    "antitoxic": true,
     "antipromo": false,
     "warnLimit": 3,
     "muteMinutes": 60,
