@@ -1,0 +1,12 @@
+{
+  "-1002935510608": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [
+      "forsel"
+    ],
+    "warns": {}
+  }
+}
