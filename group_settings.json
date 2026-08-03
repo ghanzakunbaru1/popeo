@@ -8,10 +8,91 @@
       "forsel"
     ],
     "warns": {
-      "8207467354": 0
+      "8207467354": 0,
+      "7072390886": 1
     }
   },
   "-1002801776577": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [],
+    "warns": {}
+  },
+  "-1002194235214": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [],
+    "warns": {}
+  },
+  "-1003025743321": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [],
+    "warns": {}
+  },
+  "-1003269223066": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [],
+    "warns": {}
+  },
+  "-1003849971556": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [],
+    "warns": {}
+  },
+  "-1002301825191": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [],
+    "warns": {}
+  },
+  "-1002351612063": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [],
+    "warns": {}
+  },
+  "-5196492161": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [],
+    "warns": {}
+  },
+  "-1002755598759": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [],
+    "warns": {}
+  },
+  "-1002868944560": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [],
+    "warns": {}
+  },
+  "-1003753194791": {
     "antitoxic": false,
     "antipromo": false,
     "warnLimit": 3,
