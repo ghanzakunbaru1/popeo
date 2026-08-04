@@ -58,7 +58,9 @@
     "warnLimit": 3,
     "muteMinutes": 60,
     "whitelist": [],
-    "warns": {}
+    "warns": {
+      "1964747665": 1
+    }
   },
   "-1002351612063": {
     "antitoxic": false,
