@@ -9,7 +9,7 @@
     ],
     "warns": {
       "8207467354": 0,
-      "7072390886": 1
+      "7072390886": 2
     }
   },
   "-1002801776577": {
@@ -93,6 +93,14 @@
     "warns": {}
   },
   "-1003753194791": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [],
+    "warns": {}
+  },
+  "-1002710176021": {
     "antitoxic": false,
     "antipromo": false,
     "warnLimit": 3,
