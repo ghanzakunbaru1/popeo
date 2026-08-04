@@ -57,7 +57,9 @@
     "antipromo": true,
     "warnLimit": 3,
     "muteMinutes": 60,
-    "whitelist": [],
+    "whitelist": [
+      "promo"
+    ],
     "warns": {
       "1964747665": 1
     }
