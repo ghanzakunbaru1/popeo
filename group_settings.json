@@ -54,7 +54,7 @@
   },
   "-1002301825191": {
     "antitoxic": false,
-    "antipromo": false,
+    "antipromo": true,
     "warnLimit": 3,
     "muteMinutes": 60,
     "whitelist": [],
