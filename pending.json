@@ -68,12 +68,5 @@
     "nominal": 3000,
     "timestamp": 1784013599643,
     "status": "PENDING"
-  },
-  {
-    "trxId": "topup-c60ba637-OX4K",
-    "userId": 1964747665,
-    "nominal": 1000,
-    "timestamp": 1785839008033,
-    "status": "PENDING"
   }
 ]
