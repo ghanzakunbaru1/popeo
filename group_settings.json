@@ -11,7 +11,7 @@
       "1125495152": 1,
       "8207467354": 0,
       "7072390886": 4,
-      "7874604144": 3
+      "7874604144": 4
     }
   },
   "-1002801776577": {
@@ -164,6 +164,22 @@
     "warns": {}
   },
   "-1003056377905": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [],
+    "warns": {}
+  },
+  "-5090688593": {
+    "antitoxic": false,
+    "antipromo": false,
+    "warnLimit": 3,
+    "muteMinutes": 60,
+    "whitelist": [],
+    "warns": {}
+  },
+  "-5060550477": {
     "antitoxic": false,
     "antipromo": false,
     "warnLimit": 3,
