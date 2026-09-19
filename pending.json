@@ -75,12 +75,5 @@
     "nominal": 30000,
     "timestamp": 1788064053838,
     "status": "PENDING"
-  },
-  {
-    "trxId": "deposit_1789829079340",
-    "userId": 7882058841,
-    "nominal": 5000,
-    "timestamp": 1789829080906,
-    "status": "PENDING"
   }
 ]
